@@ -1,0 +1,582 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/intelFPGA/18.1/Lab2new/Top/software_new_new/Lab2new/obj/default/runtime/sim/mentor
+vniosII_cpu
+!s110 1642350861
+!i10b 1
+!s100 o`;G6YnDke<cT7O28d:D[0
+I0WdbYQBSohzPDkbE@L4a63
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1642252187
+8D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu.v
+FD:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu.v
+L0 9
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1642350860.000000
+!s107 D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu.v|
+!s90 -reportprogress|300|D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu.v|-work|cpu|
+!i113 1
+Z3 o-work cpu
+Z4 tCvgOpt 0
+nnios@i@i_cpu
+vniosII_cpu_cpu
+Z5 !s110 1642350858
+!i10b 1
+!s100 Bn1J6nNfdb]`=KmWGjWX:0
+IhX;SXGcfG@PYPeN9RB_0V3
+R1
+R0
+Z6 w1642252209
+Z7 8D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu.v
+Z8 FD:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu.v
+L0 2834
+R2
+r1
+!s85 0
+31
+Z9 !s108 1642350858.000000
+Z10 !s107 D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu.v|
+Z11 !s90 -reportprogress|300|D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu.v|-work|cpu|
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu
+vniosII_cpu_cpu_debug_slave_sysclk
+R5
+!i10b 1
+!s100 4M5Cj1D2;PdAE`OifmXoc2
+Im0`anjjiGX^:IM1g=hQB_2
+R1
+R0
+R6
+8D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_debug_slave_sysclk.v
+FD:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_debug_slave_sysclk.v
+Z12 L0 21
+R2
+r1
+!s85 0
+31
+R9
+!s107 D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_debug_slave_sysclk.v|
+!s90 -reportprogress|300|D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_debug_slave_sysclk.v|-work|cpu|
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_debug_slave_sysclk
+vniosII_cpu_cpu_debug_slave_tck
+R5
+!i10b 1
+!s100 CBh4BDz^Ql^fk2R180G3a1
+I`RNeOjcfB72Qdk4PdGNZ21
+R1
+R0
+R6
+8D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_debug_slave_tck.v
+FD:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_debug_slave_tck.v
+R12
+R2
+r1
+!s85 0
+31
+R9
+!s107 D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_debug_slave_tck.v|
+!s90 -reportprogress|300|D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_debug_slave_tck.v|-work|cpu|
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_debug_slave_tck
+vniosII_cpu_cpu_debug_slave_wrapper
+Z13 !s110 1642350859
+!i10b 1
+!s100 YgoMe8F`KgSDa83_PACMo2
+IS1QkE4>PFPS6am7VB]SVY1
+R1
+R0
+R6
+8D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_debug_slave_wrapper.v
+FD:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_debug_slave_wrapper.v
+R12
+R2
+r1
+!s85 0
+31
+R9
+!s107 D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_debug_slave_wrapper.v|
+!s90 -reportprogress|300|D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_debug_slave_wrapper.v|-work|cpu|
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_debug_slave_wrapper
+vniosII_cpu_cpu_nios2_avalon_reg
+R5
+!i10b 1
+!s100 QlV`A4jN`F6_TE@U<Y;nV2
+IB^kglmcB_IfPzBb<`4BfU2
+R1
+R0
+R6
+R7
+R8
+L0 2023
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_nios2_avalon_reg
+vniosII_cpu_cpu_nios2_oci
+R5
+!i10b 1
+!s100 lAb3CBX4`i;f^?K;i9Y9M1
+IAoLN?:RXXO=8V5_NK79;C3
+R1
+R0
+R6
+R7
+R8
+L0 2362
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_nios2_oci
+vniosII_cpu_cpu_nios2_oci_break
+R5
+!i10b 1
+!s100 mJ;oXg79i74BjR[DAL=UY1
+IY>cWfD3FJ0k@=a]LlJaH[1
+R1
+R0
+R6
+R7
+R8
+L0 295
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_nios2_oci_break
+vniosII_cpu_cpu_nios2_oci_compute_input_tm_cnt
+R5
+!i10b 1
+!s100 3>47cSFBRJ`L>PYzoV65I2
+I:7m]4J3dKKTPb[=E7nZ3c2
+R1
+R0
+R6
+R7
+R8
+L0 1265
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_nios2_oci_compute_input_tm_cnt
+vniosII_cpu_cpu_nios2_oci_dbrk
+R5
+!i10b 1
+!s100 XImI[Yoi=3WU=HEV2hKe81
+I[WLiUNfK32iLXUAhSNDR03
+R1
+R0
+R6
+R7
+R8
+L0 795
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_nios2_oci_dbrk
+vniosII_cpu_cpu_nios2_oci_debug
+R5
+!i10b 1
+!s100 nzAa82`PU2dikHa52aF>B0
+IS7Tzo3DBb5[cdgXQczeQ<3
+R1
+R0
+R6
+R7
+R8
+L0 153
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_nios2_oci_debug
+vniosII_cpu_cpu_nios2_oci_dtrace
+R5
+!i10b 1
+!s100 R@oADT?adXX[H4h7VhIB^3
+Iec>8`5h<@[<61VMll=[GU2
+R1
+R0
+R6
+R7
+R8
+L0 1183
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_nios2_oci_dtrace
+vniosII_cpu_cpu_nios2_oci_fifo
+R5
+!i10b 1
+!s100 QHPfTRCXGGd_jUna[eAEf2
+IHg;j]K[dGV6dgZ2KFe>kI3
+R1
+R0
+R6
+R7
+R8
+L0 1427
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_nios2_oci_fifo
+vniosII_cpu_cpu_nios2_oci_fifo_cnt_inc
+R5
+!i10b 1
+!s100 ?Xb=D9[i[hBJ3A[F04G=n2
+I3=@k:d:HIO1_^DBZ51dIj3
+R1
+R0
+R6
+R7
+R8
+L0 1380
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_nios2_oci_fifo_cnt_inc
+vniosII_cpu_cpu_nios2_oci_fifo_wrptr_inc
+R5
+!i10b 1
+!s100 @;[?DjQ0UcAmDo5h8Fl183
+I2jm3ALEgi<9n<]RihS5DZ0
+R1
+R0
+R6
+R7
+R8
+L0 1337
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_nios2_oci_fifo_wrptr_inc
+vniosII_cpu_cpu_nios2_oci_im
+R5
+!i10b 1
+!s100 DmT6Ma]NV4Oo8FCS`IbQZ0
+I7bzM@aYi;4UHi@`Z1?;7@1
+R1
+R0
+R6
+R7
+R8
+L0 1936
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_nios2_oci_im
+vniosII_cpu_cpu_nios2_oci_itrace
+R5
+!i10b 1
+!s100 4_`9`ocemga2o:>eR4TQ70
+I>SG5]k_<zCC@FAm;RUFWU1
+R1
+R0
+R6
+R7
+R8
+L0 982
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_nios2_oci_itrace
+vniosII_cpu_cpu_nios2_oci_pib
+R5
+!i10b 1
+!s100 Nh8^`LB77d0jAdBHaW3de1
+IdFdJzY^;3c3X[6dkca1<40
+R1
+R0
+R6
+R7
+R8
+L0 1913
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_nios2_oci_pib
+vniosII_cpu_cpu_nios2_oci_td_mode
+R5
+!i10b 1
+!s100 H4L@i?XYNefRh9z:l0DP91
+I7ljza[^Qi8SMVV^IR3;Iz0
+R1
+R0
+R6
+R7
+R8
+L0 1115
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_nios2_oci_td_mode
+vniosII_cpu_cpu_nios2_oci_xbrk
+R5
+!i10b 1
+!s100 ZK^Nc:=Mg54aza7<_Tl770
+IDzI960PmBm`KeU5ncRE]P2
+R1
+R0
+R6
+R7
+R8
+L0 588
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_nios2_oci_xbrk
+vniosII_cpu_cpu_nios2_ocimem
+R5
+!i10b 1
+!s100 M11BfK4L:>9idN7781d?02
+I8?R5@LekN36bVIn8FYofJ3
+R1
+R0
+R6
+R7
+R8
+L0 2181
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_nios2_ocimem
+vniosII_cpu_cpu_nios2_performance_monitors
+R5
+!i10b 1
+!s100 US@<8BS]QSEJ@NYKJP5Nh3
+IJ4neo^e=TLi0<FI7K>GC11
+R1
+R0
+R6
+R7
+R8
+L0 2006
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_nios2_performance_monitors
+vniosII_cpu_cpu_ociram_sp_ram_module
+R5
+!i10b 1
+!s100 M]`:P<UgjIcS1K;DRTQME0
+If<g1Mg4mB@Bm8K0HMKIEf2
+R1
+R0
+R6
+R7
+R8
+L0 2116
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_ociram_sp_ram_module
+vniosII_cpu_cpu_register_bank_a_module
+R5
+!i10b 1
+!s100 B5WM`Bc9YhRNMJ_Kgn>Wa3
+I=PF_][8XgG3Rj]WHTQ^Y?1
+R1
+R0
+R6
+R7
+R8
+R12
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_register_bank_a_module
+vniosII_cpu_cpu_register_bank_b_module
+R5
+!i10b 1
+!s100 aCeVPa?`jUnZi;U;=E1:K2
+I2KZ57]^?cXU3OSXTZjKC82
+R1
+R0
+R6
+R7
+R8
+L0 87
+R2
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_register_bank_b_module
+vniosII_cpu_cpu_test_bench
+R13
+!i10b 1
+!s100 g]D`PBz9W32ec2l[6CD6P3
+IP=E=;?>kkTXlmgkgGB5Y:2
+R1
+R0
+R6
+8D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_test_bench.v
+FD:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_test_bench.v
+R12
+R2
+r1
+!s85 0
+31
+!s108 1642350859.000000
+!s107 D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_test_bench.v|
+!s90 -reportprogress|300|D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_test_bench.v|-work|cpu|
+!i113 1
+R3
+R4
+nnios@i@i_cpu_cpu_test_bench

@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/intelFPGA/18.1/Lab2/Lab2new/Top/software/Lab2/obj/default/runtime/sim/mentor
+vniosII_mm_interconnect_0_avalon_st_adapter
+!s110 1642255422
+!i10b 1
+!s100 @zkYkeIK:iSKn8ASjOd=S2
+I<MLl1TBHgKS9AS^@UfHO21
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1642252211
+8D:/intelFPGA/18.1/Lab2/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_mm_interconnect_0_avalon_st_adapter.v
+FD:/intelFPGA/18.1/Lab2/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_mm_interconnect_0_avalon_st_adapter.v
+L0 9
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1642255422.000000
+!s107 D:/intelFPGA/18.1/Lab2/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_mm_interconnect_0_avalon_st_adapter.v|
+!s90 -reportprogress|300|D:/intelFPGA/18.1/Lab2/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_mm_interconnect_0_avalon_st_adapter.v|-work|avalon_st_adapter|
+!i113 1
+o-work avalon_st_adapter
+tCvgOpt 0
+nnios@i@i_mm_interconnect_0_avalon_st_adapter

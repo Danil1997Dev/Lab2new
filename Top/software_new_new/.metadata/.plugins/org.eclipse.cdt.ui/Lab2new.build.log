@@ -1,0 +1,9 @@
+01:33:50 **** Incremental Build of configuration Nios II for project Lab2new ****
+make all 
+Info: Building ../Lab2new_bsp/
+K:/intelFPGA_lite/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Lab2new_bsp/
+[BSP build complete]
+[RUN_ON_HDL_SIMULATOR_ONLY_Lab2new build complete]
+
+01:33:52 Build Finished (took 1s.108ms)
+
