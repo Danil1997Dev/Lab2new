@@ -235,3 +235,49 @@ Info: Building ../Lab2new_bsp/
 K:/intelFPGA_lite/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Lab2new_bsp/
 [BSP build complete]
 [RUN_ON_HDL_SIMULATOR_ONLY_Lab2new build complete]
+14:47:28 **** Incremental Build of configuration Nios II for project Lab2new_bsp ****
+make all 
+[BSP build complete]
+14:47:29 **** Incremental Build of configuration Nios II for project Lab2new ****
+make all 
+Info: Building ../Lab2new_bsp/
+K:/intelFPGA_lite/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Lab2new_bsp/
+[BSP build complete]
+Info: Compiling sem.c to obj/default/sem.o
+nios2-elf-gcc -xc -MP -MMD -c -I../Lab2new_bsp//HAL/inc -I../Lab2new_bsp/ -I../Lab2new_bsp//drivers/inc  -pipe -D__hal__ -DALT_NO_C_PLUS_PLUS -DALT_NO_INSTRUCTION_EMULATION -DALT_SIM_OPTIMIZE -DALT_SINGLE_THREADED    -O0 -g -Wall   -mno-hw-div -mno-hw-mul -mno-hw-mulx -mgpopt=global  -o obj/default/sem.o sem.c
+sem.c: In function 'main':
+sem.c:52:2: warning: implicit declaration of function 'alt_dcache_flush' [-Wimplicit-function-declaration]
+  alt_dcache_flush();
+  ^
+sem.c:35:10: warning: unused variable 'divisor' [-Wunused-variable]
+  alt_u32 divisor;
+          ^
+Info: Linking RUN_ON_HDL_SIMULATOR_ONLY_Lab2new.elf
+nios2-elf-g++  -T'../Lab2new_bsp//linker.x' -msys-crt0='../Lab2new_bsp//obj/HAL/src/crt0.o' -msys-lib=hal_bsp -L../Lab2new_bsp/   -Wl,-Map=RUN_ON_HDL_SIMULATOR_ONLY_Lab2new.map   -O0 -g -Wall   -mno-hw-div -mno-hw-mul -mno-hw-mulx -mgpopt=global  -o RUN_ON_HDL_SIMULATOR_ONLY_Lab2new.elf obj/default/sem.o -lm -msys-lib=m
+nios2-elf-insert RUN_ON_HDL_SIMULATOR_ONLY_Lab2new.elf --thread_model hal --cpu_name cpu --qsys true --simulation_enabled false --stderr_dev jtag_uart --stdin_dev jtag_uart --stdout_dev jtag_uart --sopc_system_name niosII --quartus_project_dir "D:/intelFPGA/18.1/Lab2new/Top" --jdi ../..//output_files/Lab2.jdi --sopcinfo D:/intelFPGA/18.1/Lab2new/Top/software_new_new/Lab2new_bsp/../../niosII.sopcinfo
+Info: (RUN_ON_HDL_SIMULATOR_ONLY_Lab2new.elf) 28 KBytes program size (code + initialized data).
+Info:                                         92 KBytes free for stack + heap.
+Info: Creating RUN_ON_HDL_SIMULATOR_ONLY_Lab2new.objdump
+nios2-elf-objdump --disassemble --syms --all-header --source RUN_ON_HDL_SIMULATOR_ONLY_Lab2new.elf >RUN_ON_HDL_SIMULATOR_ONLY_Lab2new.objdump
+[RUN_ON_HDL_SIMULATOR_ONLY_Lab2new build complete]
+14:47:40 **** Build of configuration Nios II for project Lab2new ****
+make all 
+Info: Building ../Lab2new_bsp/
+K:/intelFPGA_lite/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Lab2new_bsp/
+[BSP build complete]
+[RUN_ON_HDL_SIMULATOR_ONLY_Lab2new build complete]
+14:47:42 **** Incremental Build of configuration Nios II for project Lab2new_bsp ****
+make all 
+[BSP build complete]
+14:47:43 **** Incremental Build of configuration Nios II for project Lab2new ****
+make all 
+Info: Building ../Lab2new_bsp/
+K:/intelFPGA_lite/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Lab2new_bsp/
+[BSP build complete]
+[RUN_ON_HDL_SIMULATOR_ONLY_Lab2new build complete]
+14:47:44 **** Incremental Build of configuration Nios II for project Lab2new ****
+make all 
+Info: Building ../Lab2new_bsp/
+K:/intelFPGA_lite/18.1/nios2eds/bin/gnu/H-x86_64-mingw32/bin/make --no-print-directory -C ../Lab2new_bsp/
+[BSP build complete]
+[RUN_ON_HDL_SIMULATOR_ONLY_Lab2new build complete]

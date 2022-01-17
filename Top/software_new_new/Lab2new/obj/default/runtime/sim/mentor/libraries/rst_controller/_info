@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 dD:/intelFPGA/18.1/Lab2new/Top/software_new_new/Lab2new/obj/default/runtime/sim/mentor
 valtera_reset_controller
-Z1 !s110 1642350859
+Z1 !s110 1642398482
 !i10b 1
 !s100 z[H_hRO9gO=:^2E3_jWH03
 IECIGoC>YX>:d;Oc[FbgIA1
@@ -23,7 +23,7 @@ Z4 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z5 !s108 1642350859.000000
+Z5 !s108 1642398482.000000
 !s107 D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/altera_reset_controller.v|
 !s90 -reportprogress|300|D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/altera_reset_controller.v|-work|rst_controller|
 !i113 1

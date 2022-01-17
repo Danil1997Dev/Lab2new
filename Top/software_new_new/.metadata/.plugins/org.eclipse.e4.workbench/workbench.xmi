@@ -51,7 +51,7 @@
               <children xsi:type="advanced:Placeholder" xmi:id="_8JGsNXbwEeysiJaVrp-4ng" elementId="org.eclipse.ui.views.ResourceNavigator" toBeRendered="false" ref="_8JAlkXbwEeysiJaVrp-4ng"/>
               <children xsi:type="advanced:Placeholder" xmi:id="_8JGsNnbwEeysiJaVrp-4ng" elementId="org.eclipse.ui.views.BookmarkView" toBeRendered="false" ref="_8JAlknbwEeysiJaVrp-4ng"/>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_8JGsN3bwEeysiJaVrp-4ng" containerData="7500" selectedElement="_8JGsOHbwEeysiJaVrp-4ng">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_8JGsN3bwEeysiJaVrp-4ng" containerData="7500" selectedElement="_8JGsPHbwEeysiJaVrp-4ng">
               <children xsi:type="basic:PartSashContainer" xmi:id="_8JGsOHbwEeysiJaVrp-4ng" containerData="7500" selectedElement="_8JGsOXbwEeysiJaVrp-4ng" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_8JGsOXbwEeysiJaVrp-4ng" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_8I2NgHbwEeysiJaVrp-4ng"/>
                 <children xsi:type="basic:PartStack" xmi:id="_8JGsOnbwEeysiJaVrp-4ng" elementId="topRight" containerData="2500" selectedElement="_8JGsO3bwEeysiJaVrp-4ng">
@@ -94,7 +94,7 @@
         <tags>EditorStack</tags>
         <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_YZ_ScHbyEeysiJaVrp-4ng" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="sem.c" iconURI="platform:/plugin/org.eclipse.cdt.ui/icons/obj16/c_file_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;sem.c&quot; partName=&quot;sem.c&quot; title=&quot;sem.c&quot; tooltip=&quot;Lab2new/sem.c&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Lab2new/sem.c&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.cdt.ui.editor.CEditor&quot; name=&quot;sem.c&quot; partName=&quot;sem.c&quot; title=&quot;sem.c&quot; tooltip=&quot;Lab2new/sem.c&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Lab2new/sem.c&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;982&quot; selectionTopPixel=&quot;928&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.cdt.ui.editor.CEditor</tags>
           <tags>removeOnHide</tags>
@@ -104,7 +104,7 @@
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_8I-wYHbwEeysiJaVrp-4ng" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.gif" tooltip="" closeable="true">
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; org.eclipse.cdt.ui.cview.groupincludes=&quot;false&quot; org.eclipse.cdt.ui.cview.groupmacros=&quot;false&quot; org.eclipse.cdt.ui.editor.CUChildren=&quot;true&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;/>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1642350175953&quot; org.eclipse.cdt.ui.cview.groupincludes=&quot;false&quot; org.eclipse.cdt.ui.cview.groupmacros=&quot;false&quot; org.eclipse.cdt.ui.editor.CUChildren=&quot;true&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="_8Nfc8HbwEeysiJaVrp-4ng" elementId="org.eclipse.ui.navigator.ProjectExplorer">
@@ -178,7 +178,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_74p1YHbwEeysiJaVrp-4ng" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_744e4HbwEeysiJaVrp-4ng" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_7lawWnbwEeysiJaVrp-4ng"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_OoFUEHdhEey-EZZWOrymxg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_7lawWnbwEeysiJaVrp-4ng"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_74qccHbwEeysiJaVrp-4ng" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -202,7 +202,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_74qcdHbwEeysiJaVrp-4ng" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_7467IHbwEeysiJaVrp-4ng" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_7lY7IXbwEeysiJaVrp-4ng"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_OoHwUHdhEey-EZZWOrymxg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_7lY7IXbwEeysiJaVrp-4ng"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_74qcdXbwEeysiJaVrp-4ng" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>

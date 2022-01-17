@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 dD:/intelFPGA/18.1/Lab2new/Top/software_new_new/Lab2new/obj/default/runtime/sim/mentor
 vniosII_cpu
-!s110 1642350861
+!s110 1642398484
 !i10b 1
 !s100 o`;G6YnDke<cT7O28d:D[0
 I0WdbYQBSohzPDkbE@L4a63
@@ -23,7 +23,7 @@ Z2 OV;L;10.5b;63
 r1
 !s85 0
 31
-!s108 1642350860.000000
+!s108 1642398484.000000
 !s107 D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu.v|
 !s90 -reportprogress|300|D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu.v|-work|cpu|
 !i113 1
@@ -31,7 +31,7 @@ Z3 o-work cpu
 Z4 tCvgOpt 0
 nnios@i@i_cpu
 vniosII_cpu_cpu
-Z5 !s110 1642350858
+Z5 !s110 1642398481
 !i10b 1
 !s100 Bn1J6nNfdb]`=KmWGjWX:0
 IhX;SXGcfG@PYPeN9RB_0V3
@@ -45,7 +45,7 @@ R2
 r1
 !s85 0
 31
-Z9 !s108 1642350858.000000
+Z9 !s108 1642398481.000000
 Z10 !s107 D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu.v|
 Z11 !s90 -reportprogress|300|D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu.v|-work|cpu|
 !i113 1
@@ -75,7 +75,7 @@ R3
 R4
 nnios@i@i_cpu_cpu_debug_slave_sysclk
 vniosII_cpu_cpu_debug_slave_tck
-R5
+Z13 !s110 1642398482
 !i10b 1
 !s100 CBh4BDz^Ql^fk2R180G3a1
 I`RNeOjcfB72Qdk4PdGNZ21
@@ -89,7 +89,7 @@ R2
 r1
 !s85 0
 31
-R9
+Z14 !s108 1642398482.000000
 !s107 D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_debug_slave_tck.v|
 !s90 -reportprogress|300|D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_debug_slave_tck.v|-work|cpu|
 !i113 1
@@ -97,7 +97,7 @@ R3
 R4
 nnios@i@i_cpu_cpu_debug_slave_tck
 vniosII_cpu_cpu_debug_slave_wrapper
-Z13 !s110 1642350859
+R13
 !i10b 1
 !s100 YgoMe8F`KgSDa83_PACMo2
 IS1QkE4>PFPS6am7VB]SVY1
@@ -111,7 +111,7 @@ R2
 r1
 !s85 0
 31
-R9
+R14
 !s107 D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_debug_slave_wrapper.v|
 !s90 -reportprogress|300|D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_debug_slave_wrapper.v|-work|cpu|
 !i113 1
@@ -573,7 +573,7 @@ R2
 r1
 !s85 0
 31
-!s108 1642350859.000000
+R14
 !s107 D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_test_bench.v|
 !s90 -reportprogress|300|D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_cpu_cpu_test_bench.v|-work|cpu|
 !i113 1

@@ -36,8 +36,7 @@ module niosII_tb (
 	);
 	
 	initial
-	begin
-$monitor("divider = %b", niosii_inst.sem.divider) ;  
+	begin 
 		train = 0;
 		wait (niosii_inst_reset_bfm_reset_reset);
 		forever

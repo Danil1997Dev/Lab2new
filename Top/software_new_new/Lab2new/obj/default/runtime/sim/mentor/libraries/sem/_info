@@ -10,7 +10,7 @@ cModel Technology
 Z0 dD:/intelFPGA/18.1/Lab2new/Top/software_new_new/Lab2new/obj/default/runtime/sim/mentor
 vdec
 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
-Z1 !s110 1642350860
+Z1 !s110 1642398483
 !i10b 1
 !s100 <^<1cRQ`6_lzakEYn1>H11
 Ie<Dj?:I]75RjR`U>4o^>61
@@ -26,7 +26,7 @@ Z4 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z5 !s108 1642350860.000000
+Z5 !s108 1642398483.000000
 !s107 D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/dec.sv|
 !s90 -reportprogress|300|-sv|D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/dec.sv|-L|altera_common_sv_packages|-work|sem|
 !i113 1

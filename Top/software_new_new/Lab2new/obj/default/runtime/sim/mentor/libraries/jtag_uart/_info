@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 dD:/intelFPGA/18.1/Lab2new/Top/software_new_new/Lab2new/obj/default/runtime/sim/mentor
 vniosII_jtag_uart
-Z1 !s110 1642350860
+Z1 !s110 1642398484
 !i10b 1
 !s100 MmC5FKkhaJm2;WDFW`n>:0
 IQ6=gA<Z7<`BU=6^kb5OgH0
@@ -23,7 +23,7 @@ Z6 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z7 !s108 1642350860.000000
+Z7 !s108 1642398484.000000
 Z8 !s107 D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_jtag_uart.v|
 Z9 !s90 -reportprogress|300|D:/intelFPGA/18.1/Lab2new/Top/niosII/testbench/niosII_tb/simulation/submodules/niosII_jtag_uart.v|-work|jtag_uart|
 !i113 1
